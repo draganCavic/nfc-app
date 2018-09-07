@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "61319729192",
+    "firebase_url": "https://nfcpay-843a8.firebaseio.com",
+    "project_id": "nfcpay-843a8",
+    "storage_bucket": "nfcpay-843a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61319729192:android:b9f6ec81dc3bf408",
+        "android_client_info": {
+          "package_name": "com.example.drcavic.nfcapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61319729192-tkqohsm9ng42e943ee07hfacnmtvksml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drcavic.nfcapplication",
+            "certificate_hash": "0f7b015e23a91ea5f1ce7dc383fe24dcad43f2bc"
+          }
+        },
+        {
+          "client_id": "61319729192-csgq3cha1i5miqq8n4g0em56pf9hq5mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnrMy-G0FXveTngPLoIXZ6Mm6bNrmP2Nk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61319729192-csgq3cha1i5miqq8n4g0em56pf9hq5mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
